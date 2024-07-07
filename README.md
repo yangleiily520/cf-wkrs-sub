@@ -15,7 +15,7 @@
 
 ## 鸣谢项目
 
-- vfarid：https://github.com/vfarid/v2ray-worker-sub
+- vfarid： https://github.com/vfarid/v2ray-worker-sub
 
 ## 注意事项
 
