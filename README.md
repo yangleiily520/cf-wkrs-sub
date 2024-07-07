@@ -4,7 +4,10 @@
 
 ## 部署教程
 
-- Workers 教程地址：待发布
+- Workers 教程地址：worker.js（我现在使用的），worker_2.js（效果差不多）
+- 在部署好后，打开的dev页面后面加上/sub/干净IP。就是订阅地址
+- 干净IP网站：https://cloudflare-scanner.vercel.app/
+- 在部署好后，打开的dev页面也可以直接点网站会出来节点。
 
 ## 鸣谢项目
 
@@ -16,9 +19,3 @@
 2. 由于 workers.dev 域名被墙，所以需要绑定自己的域名
 3. 由于节点均为公用节点，因此请勿在节点上登录自己的重要账户数据
 4. 请勿滥用！
-
-## 赞助
-
-爱发电：https://afdian.net/a/Misaka-blog
-
-![afdian-MisakaNo の 小破站](https://user-images.githubusercontent.com/122191366/211533469-351009fb-9ae8-4601-992a-abbf54665b68.jpg)
