@@ -1,6 +1,6 @@
 # cf-wkrs-sub
 
-使用 CloudFlare Workers 订阅免费节点
+使用 CloudFlare Workers 订阅免费节点，也可以使用 CloudFlare Pages 订阅免费节点
 
 ## 部署教程
 
