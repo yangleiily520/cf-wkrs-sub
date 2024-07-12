@@ -8,10 +8,13 @@
 - 在部署好后，打开的dev页面后面加上/sub/干净IP。就是订阅地址
 - 干净IP网站：https://cloudflare-scanner.vercel.app/
 - 在部署好后，打开的dev页面也可以直接点网站会出来节点。
+- worker（需要KV）.js 需要创建KV空间（名称随便）
+- KV空间变量命名：settings （这个不能名字必须是这个，代码中写了）
 
 ## 搭建教程
 - worker.js的油管教程：https://www.youtube.com/watch?v=uqTO66Zl8bQ
 - worker_2.js的油管教程：https://www.youtube.com/watch?v=L7JyA8hxzog
+- worker（需要KV）.js的油管教程：https://www.youtube.com/watch?v=o__hOFhmKtY
 
 ## 鸣谢项目
 
